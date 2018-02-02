@@ -1,0 +1,12 @@
+h1 {
+  border: 10px solid purple;
+}
+
+h2 {
+  background-color: green;
+  color: white;
+}
+
+p {
+  padding-top: 50px;
+}
